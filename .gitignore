@@ -19,9 +19,19 @@ coverage/
 # System files
 .DS_Store
 Thumbs.db
+Desktop.ini
 *.log
 *.bak
+*.tmp
 
 # IDE/editor settings
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# Python local tooling (optional)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
