@@ -1,0 +1,27 @@
+﻿# Node deps and lock files
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build and cache artifacts
+dist/
+build/
+out/
+public/
+.cache/
+coverage/
+.tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+
+# IDE/editor settings
+.vscode/
+.idea/

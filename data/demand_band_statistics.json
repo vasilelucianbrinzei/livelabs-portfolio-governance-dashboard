@@ -1,0 +1,52 @@
+[
+  {
+    "content_kind": "sprint",
+    "band": "1,000-4,999 views",
+    "count": 30
+  },
+  {
+    "content_kind": "sprint",
+    "band": "250-999 views",
+    "count": 44
+  },
+  {
+    "content_kind": "sprint",
+    "band": "5,000+ views",
+    "count": 9
+  },
+  {
+    "content_kind": "sprint",
+    "band": "50-249 views",
+    "count": 170
+  },
+  {
+    "content_kind": "sprint",
+    "band": "Under 50 views",
+    "count": 48
+  },
+  {
+    "content_kind": "workshop",
+    "band": "1,000-4,999 views",
+    "count": 249
+  },
+  {
+    "content_kind": "workshop",
+    "band": "250-999 views",
+    "count": 133
+  },
+  {
+    "content_kind": "workshop",
+    "band": "5,000+ views",
+    "count": 136
+  },
+  {
+    "content_kind": "workshop",
+    "band": "50-249 views",
+    "count": 31
+  },
+  {
+    "content_kind": "workshop",
+    "band": "Under 50 views",
+    "count": 34
+  }
+]

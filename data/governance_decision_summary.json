@@ -1,0 +1,23 @@
+{
+  "lifecycle_state_counts": {
+    "Refresh": 535,
+    "Keep": 305,
+    "Watchlist": 12,
+    "At Risk": 25,
+    "At Risk (Missing Data)": 7
+  },
+  "mode_counts": {
+    "full_governance": 865,
+    "provisional": 19
+  },
+  "selected_top_to_retire_tier_counts": {
+    "strong_retire_validation": 2,
+    "retirement_review": 62,
+    "exploratory_retirement_review": 36
+  },
+  "selected_top_retire_candidate_tier_counts": {
+    "strong_candidate": 12,
+    "broad_candidate": 42,
+    "exploratory_candidate": 46
+  }
+}

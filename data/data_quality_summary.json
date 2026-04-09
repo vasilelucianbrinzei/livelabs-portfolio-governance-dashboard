@@ -1,0 +1,71 @@
+{
+  "total_wms_rows": 1659,
+  "canonical_wms_row_count": 1502,
+  "active_enabled_portfolio_row_count": 884,
+  "excluded_inactive_publish_state_row_count": 436,
+  "excluded_from_visible_rankings_row_count": 436,
+  "excluded_non_workshop_publish_type_row_count": 41,
+  "excluded_disabled_publish_type_row_count": 382,
+  "publish_state_counts": {
+    "active_enabled": 884,
+    "inactive": 395,
+    "excluded_non_workshop": 41
+  },
+  "publish_state_reason_counts": {
+    "published_active_enabled": 884,
+    "publish_type_disabled": 382,
+    "publish_type_event_excluded": 41,
+    "publish_status_not_published": 13
+  },
+  "active_content_kind_counts": {
+    "workshop": 583,
+    "sprint": 301
+  },
+  "disabled_content_kind_counts": {
+    "workshop": 297,
+    "sprint": 85
+  },
+  "total_rows_by_dashboard_window": {
+    "all_data": 7028,
+    "recent_views_180d": 1285,
+    "recent_views_90d": 1191,
+    "recent_views_30d": 1077,
+    "recent_views_14d": 1008,
+    "recent_views_7d": 1075,
+    "recent_views_12m": 1392
+  },
+  "join_match_rate_by_window": {
+    "all_data": 99.29,
+    "recent_views_180d": 99.07,
+    "recent_views_90d": 99.08,
+    "recent_views_30d": 99.54,
+    "recent_views_14d": 99.5,
+    "recent_views_7d": 99.53,
+    "recent_views_12m": 99.14
+  },
+  "unmatched_workshop_titles": [
+    "Building AI Agents with Model Context Protocol (MCP) and Oracle Database 23ai",
+    "AI - Develop an AI Agent application using LangChain and Oracle Database 23ai",
+    "William Testing - 4319",
+    "William Testing - 4318",
+    "David Test 2",
+    "Green Button Test",
+    "David Start Test",
+    "Testing noVNC",
+    "Test for William",
+    "HOL18 - Terraform Test",
+    "Restricted-Tenancy-Image-Test",
+    "DELETE - Oracle Sharded Database (PTS)"
+  ],
+  "duplicate_wms_title_groups": 132,
+  "reused_wms_family_ids": 123,
+  "duplicate_livelabs_id_groups": 0,
+  "duplicate_workshop_key_groups": 0,
+  "percent_missing_yearly_views": 0.0,
+  "percent_missing_owner": 0.0,
+  "percent_missing_wms_id": 0.0,
+  "percent_missing_livelabs_id": 0.0,
+  "percent_missing_replacement_flag": 34.47,
+  "percent_missing_repo_mapping": 1.52,
+  "percent_missing_workshop_level_last_updated": 2.35
+}

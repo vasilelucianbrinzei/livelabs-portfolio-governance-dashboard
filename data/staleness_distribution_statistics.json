@@ -1,0 +1,38 @@
+[
+  {
+    "population": "Meaningful updates - High confidence",
+    "scope": "active_enabled_portfolio_with_usable_update_evidence",
+    "records": 874,
+    "mean": 14.38,
+    "median": 19.22,
+    "std_dev": 6.87,
+    "min": 0.59,
+    "q1": 9.07,
+    "q3": 19.22,
+    "upper_bound": 34.44
+  },
+  {
+    "population": "Meaningful updates - High + Low confidence",
+    "scope": "active_enabled_portfolio_with_usable_update_evidence",
+    "records": 874,
+    "mean": 14.38,
+    "median": 19.22,
+    "std_dev": 6.87,
+    "min": 0.59,
+    "q1": 9.07,
+    "q3": 19.22,
+    "upper_bound": 34.44
+  },
+  {
+    "population": "Meaningful updates - All usable confidence",
+    "scope": "active_enabled_portfolio_with_usable_update_evidence",
+    "records": 874,
+    "mean": 14.38,
+    "median": 19.22,
+    "std_dev": 6.87,
+    "min": 0.59,
+    "q1": 9.07,
+    "q3": 19.22,
+    "upper_bound": 34.44
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "workshop_key": "building ai agents with model context protocol mcp and oracle database 23ai",
+    "title": "Building AI Agents with Model Context Protocol (MCP) and Oracle Database 23ai",
+    "normalized_title": "building ai agents with model context protocol mcp and oracle database 23ai",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_30d",
+      "recent_views_14d",
+      "recent_views_7d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "ai develop an ai agent application using langchain and oracle database 23ai",
+    "title": "AI - Develop an AI Agent application using LangChain and Oracle Database 23ai",
+    "normalized_title": "ai develop an ai agent application using langchain and oracle database 23ai",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_30d",
+      "recent_views_14d",
+      "recent_views_7d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "william testing 4319",
+    "title": "William Testing - 4319",
+    "normalized_title": "william testing 4319",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_30d",
+      "recent_views_14d",
+      "recent_views_7d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "william testing 4318",
+    "title": "William Testing - 4318",
+    "normalized_title": "william testing 4318",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_30d",
+      "recent_views_14d",
+      "recent_views_7d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "david test 2",
+    "title": "David Test 2",
+    "normalized_title": "david test 2",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_30d",
+      "recent_views_14d",
+      "recent_views_7d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "green button test",
+    "title": "Green Button Test",
+    "normalized_title": "green button test",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "david start test",
+    "title": "David Start Test",
+    "normalized_title": "david start test",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "testing novnc",
+    "title": "Testing noVNC",
+    "normalized_title": "testing novnc",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "test for william",
+    "title": "Test for William",
+    "normalized_title": "test for william",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "hol18 terraform test",
+    "title": "HOL18 - Terraform Test",
+    "normalized_title": "hol18 terraform test",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "restricted tenancy image test",
+    "title": "Restricted-Tenancy-Image-Test",
+    "normalized_title": "restricted tenancy image test",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_90d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "workshop_key": "delete oracle sharded database pts",
+    "title": "DELETE - Oracle Sharded Database (PTS)",
+    "normalized_title": "delete oracle sharded database pts",
+    "wms_id": null,
+    "livelabs_id": null,
+    "window_presence": [
+      "all_data",
+      "all_data",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  }
+]
