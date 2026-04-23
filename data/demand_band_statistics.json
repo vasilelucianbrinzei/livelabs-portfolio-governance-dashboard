@@ -7,46 +7,46 @@
   {
     "content_kind": "sprint",
     "band": "250-999 views",
-    "count": 44
+    "count": 49
   },
   {
     "content_kind": "sprint",
     "band": "5,000+ views",
-    "count": 9
+    "count": 10
   },
   {
     "content_kind": "sprint",
     "band": "50-249 views",
-    "count": 170
+    "count": 165
   },
   {
     "content_kind": "sprint",
     "band": "Under 50 views",
-    "count": 48
+    "count": 46
   },
   {
     "content_kind": "workshop",
     "band": "1,000-4,999 views",
-    "count": 249
+    "count": 254
   },
   {
     "content_kind": "workshop",
     "band": "250-999 views",
-    "count": 133
+    "count": 138
   },
   {
     "content_kind": "workshop",
     "band": "5,000+ views",
-    "count": 136
+    "count": 139
   },
   {
     "content_kind": "workshop",
     "band": "50-249 views",
-    "count": 31
+    "count": 30
   },
   {
     "content_kind": "workshop",
     "band": "Under 50 views",
-    "count": 34
+    "count": 24
   }
 ]

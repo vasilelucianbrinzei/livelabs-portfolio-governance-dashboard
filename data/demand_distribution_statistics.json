@@ -2,49 +2,49 @@
   {
     "population": "Recent Views 7d",
     "scope": "active_enabled_portfolio",
-    "records": 849,
-    "mean": 354.85,
-    "median": 80.0,
-    "std_dev": 866.49,
+    "records": 841,
+    "mean": 114.34,
+    "median": 24.0,
+    "std_dev": 297.82,
     "min": 1.0,
-    "q1": 19.0,
-    "q3": 286.0,
-    "upper_bound": 686.5
+    "q1": 6.0,
+    "q3": 81.0,
+    "upper_bound": 193.5
   },
   {
     "population": "Recent Views 30d",
     "scope": "active_enabled_portfolio",
-    "records": 850,
-    "mean": 354.47,
-    "median": 80.0,
-    "std_dev": 866.1,
+    "records": 856,
+    "mean": 469.81,
+    "median": 97.5,
+    "std_dev": 1154.75,
     "min": 1.0,
-    "q1": 19.0,
-    "q3": 285.5,
-    "upper_bound": 685.25
+    "q1": 21.0,
+    "q3": 367.5,
+    "upper_bound": 887.25
   },
   {
     "population": "Recent Views 90d",
     "scope": "active_enabled_portfolio",
-    "records": 876,
-    "mean": 796.76,
-    "median": 219.0,
-    "std_dev": 1852.17,
+    "records": 862,
+    "mean": 1113.0,
+    "median": 264.5,
+    "std_dev": 2687.98,
     "min": 1.0,
-    "q1": 88.75,
-    "q3": 760.25,
-    "upper_bound": 1767.5
+    "q1": 104.0,
+    "q3": 868.0,
+    "upper_bound": 2014.0
   },
   {
     "population": "Recent Views 12m",
     "scope": "active_enabled_portfolio",
-    "records": 884,
-    "mean": 3221.21,
-    "median": 877.5,
-    "std_dev": 6967.63,
+    "records": 885,
+    "mean": 3479.55,
+    "median": 952.0,
+    "std_dev": 7575.38,
     "min": 1.0,
-    "q1": 165.25,
-    "q3": 3315.0,
-    "upper_bound": 8039.62
+    "q1": 178.0,
+    "q3": 3493.0,
+    "upper_bound": 8465.5
   }
 ]

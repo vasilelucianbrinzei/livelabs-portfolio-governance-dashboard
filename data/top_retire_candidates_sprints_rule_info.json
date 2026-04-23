@@ -12,23 +12,23 @@
     {
       "version": "candidate_v2",
       "description": "at-risk content item: strong score, low demand, replacement path, and stale content older than 12 months",
-      "matched_count": 2,
-      "new_count": 2,
-      "cumulative_count": 2
+      "matched_count": 4,
+      "new_count": 4,
+      "cumulative_count": 4
     },
     {
       "version": "candidate_v3",
       "description": "moderate-risk content item: moderate score, low demand, replacement path, and stale content older than 12 months",
-      "matched_count": 24,
-      "new_count": 22,
-      "cumulative_count": 24
+      "matched_count": 25,
+      "new_count": 21,
+      "cumulative_count": 25
     },
     {
       "version": "candidate_v4",
       "description": "watchlist content item: include stale low-demand content older than 12 months for human review even if replacement is not settled yet",
-      "matched_count": 159,
-      "new_count": 135,
-      "cumulative_count": 159
+      "matched_count": 150,
+      "new_count": 125,
+      "cumulative_count": 150
     }
   ],
   "fallback_used": true,

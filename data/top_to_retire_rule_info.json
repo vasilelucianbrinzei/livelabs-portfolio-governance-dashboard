@@ -26,23 +26,23 @@
     {
       "version": "weighted_v4",
       "description": "third retire-now fallback: broaden low-demand slightly, allow confirmed or review replacement, and require stale content older than 12 months",
-      "matched_count": 27,
-      "new_count": 25,
-      "cumulative_count": 27
+      "matched_count": 33,
+      "new_count": 31,
+      "cumulative_count": 33
     },
     {
       "version": "weighted_v5",
       "description": "fourth retire-now fallback: keep retirement pressure visible with stale content older than 12 months, broader low-demand thresholds, and confirmed or review replacement",
-      "matched_count": 64,
-      "new_count": 37,
-      "cumulative_count": 64
+      "matched_count": 69,
+      "new_count": 36,
+      "cumulative_count": 69
     },
     {
       "version": "weighted_v6",
       "description": "final retire-now filler: include stale low-demand content older than 12 months even when replacement still needs human confirmation",
-      "matched_count": 300,
-      "new_count": 236,
-      "cumulative_count": 300
+      "matched_count": 302,
+      "new_count": 233,
+      "cumulative_count": 302
     }
   ],
   "fallback_used": true,

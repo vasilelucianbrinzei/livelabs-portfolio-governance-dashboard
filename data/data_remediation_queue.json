@@ -5,17 +5,39 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "ai develop an ai agent application using langchain and oracle database 23ai",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
-      "recent_views_90d",
-      "recent_views_30d",
-      "recent_views_14d",
       "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "AI Data Platform - Build a GenIAI-Powered Release and Performance Analyst - Entertainment Industry",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "ai data platform build a geniai powered release and performance analyst entertainment industry",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Accelerating IoT applications with OCI Cache and OCI PostgreSQL",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "accelerating iot applications with oci cache and oci postgresql",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -25,17 +47,25 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "building ai agents with model context protocol mcp and oracle database 23ai",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
-      "recent_views_90d",
-      "recent_views_30d",
-      "recent_views_14d",
       "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Creating Oracle JDK Container Images",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "creating oracle jdk container images",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -45,8 +75,6 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "delete oracle sharded database pts",
     "window_presence": [
-      "all_data",
-      "all_data",
       "recent_views_180d",
       "recent_views_12m"
     ]
@@ -57,11 +85,7 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "david start test",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
       "recent_views_180d",
-      "recent_views_90d",
       "recent_views_12m"
     ]
   },
@@ -71,17 +95,25 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "david test 2",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
-      "recent_views_90d",
-      "recent_views_30d",
-      "recent_views_14d",
       "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "FR - Test",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "fr test",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -91,11 +123,7 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "green button test",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
       "recent_views_180d",
-      "recent_views_90d",
       "recent_views_12m"
     ]
   },
@@ -105,11 +133,133 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "hol18 terraform test",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
       "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "How to Update the JDKs Timezone Data",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "how to update the jdks timezone data",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "How to Use the JDKs keytool Utility",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "how to use the jdks keytool utility",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "LL Workbench",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "ll workbench",
+    "window_presence": [
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "LiveLabs FastLab: Identity-aware database access using Oracle Deep Data Security",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "livelabs fastlab identity aware database access using oracle deep data security",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "LiveLabs LiveStack \u2014 Augmented Banking Hub",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "livelabs livestack augmented banking hub",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "LiveLabs LiveStack \u2014 Social Commerce (Retail)",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "livelabs livestack social commerce retail",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Make Search Trusted, Faster, and Cheaper on your Application with Trusted Answer Search",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "make search trusted faster and cheaper on your application with trusted answer search",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Oracle Integration 3 - Oracle Health EHR to Oracle Fusion - Create Care Request",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "oracle integration 3 oracle health ehr to oracle fusion create care request",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Oracle Integration 3 - Search FHIR Resources in an EMR Application",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "oracle integration 3 search fhir resources in an emr application",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -119,11 +269,21 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "restricted tenancy image test",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
       "recent_views_180d",
+      "recent_views_12m"
+    ]
+  },
+  {
+    "issue_type": "join_unmatched",
+    "title": "Social Commerce Applicaiton",
+    "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
+    "normalized_title": "social commerce applicaiton",
+    "window_presence": [
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
       "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -133,11 +293,11 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "test for william",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
+      "recent_views_7d",
+      "recent_views_14d",
+      "recent_views_30d",
       "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -147,11 +307,7 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "testing novnc",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
       "recent_views_180d",
-      "recent_views_90d",
       "recent_views_12m"
     ]
   },
@@ -161,17 +317,10 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "william testing 4318",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
-      "recent_views_90d",
-      "recent_views_30d",
       "recent_views_14d",
-      "recent_views_7d",
+      "recent_views_30d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -181,17 +330,9 @@
     "recommended_action": "Fix dashboard-to-WMS join or confirm workshop retirement/test status",
     "normalized_title": "william testing 4319",
     "window_presence": [
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "all_data",
-      "recent_views_180d",
-      "recent_views_90d",
       "recent_views_30d",
-      "recent_views_14d",
-      "recent_views_7d",
+      "recent_views_90d",
+      "recent_views_180d",
       "recent_views_12m"
     ]
   },
@@ -200,15 +341,6 @@
     "wms_id": "11625",
     "livelabs_id": 3990,
     "title": "Analyze and troubleshoot connectivity in your OCI network",
-    "recommended_action": "Map workshop path or provide workshop-level last updated data",
-    "repo_slug": null,
-    "replacement_exists": null
-  },
-  {
-    "issue_type": "missing_update_evidence",
-    "wms_id": "11817",
-    "livelabs_id": 4089,
-    "title": "CDN Test - William",
     "recommended_action": "Map workshop path or provide workshop-level last updated data",
     "repo_slug": null,
     "replacement_exists": null
@@ -323,15 +455,6 @@
   },
   {
     "issue_type": "missing_update_evidence",
-    "wms_id": "11641",
-    "livelabs_id": 3981,
-    "title": "Hands-on: Oracle Exadata Database Service on Exascale Infrastructure",
-    "recommended_action": "Map workshop path or provide workshop-level last updated data",
-    "repo_slug": "cloud-database-services",
-    "replacement_exists": null
-  },
-  {
-    "issue_type": "missing_update_evidence",
     "wms_id": "11914",
     "livelabs_id": 4224,
     "title": "Jeff, use this for your green button - William",
@@ -347,6 +470,15 @@
     "recommended_action": "Map workshop path or provide workshop-level last updated data",
     "repo_slug": "livestack",
     "replacement_exists": "unknown"
+  },
+  {
+    "issue_type": "missing_update_evidence",
+    "wms_id": "12050",
+    "livelabs_id": 4381,
+    "title": "LiveLabs LiveStack \u2014 Seer Sporting Goods with Oracle AI Vector Search",
+    "recommended_action": "Map workshop path or provide workshop-level last updated data",
+    "repo_slug": "livestack",
+    "replacement_exists": null
   },
   {
     "issue_type": "missing_update_evidence",
@@ -404,15 +536,6 @@
   },
   {
     "issue_type": "missing_update_evidence",
-    "wms_id": "11641",
-    "livelabs_id": 4076,
-    "title": "Oracle Exadata Database Service on Exascale Infrastructure Basics",
-    "recommended_action": "Map workshop path or provide workshop-level last updated data",
-    "repo_slug": "cloud-database-services",
-    "replacement_exists": null
-  },
-  {
-    "issue_type": "missing_update_evidence",
     "wms_id": "11136",
     "livelabs_id": 3510,
     "title": "Oracle Exadata Platform Performance Features",
@@ -437,15 +560,6 @@
     "recommended_action": "Map workshop path or provide workshop-level last updated data",
     "repo_slug": null,
     "replacement_exists": "unknown"
-  },
-  {
-    "issue_type": "missing_update_evidence",
-    "wms_id": "11390",
-    "livelabs_id": 4097,
-    "title": "SE Deep Dive - Graph 15 Minute Demo",
-    "recommended_action": "Map workshop path or provide workshop-level last updated data",
-    "repo_slug": null,
-    "replacement_exists": null
   },
   {
     "issue_type": "missing_update_evidence",
@@ -500,6 +614,15 @@
     "recommended_action": "Run deeper replacement comparison or manual portfolio review",
     "repo_slug": "developer",
     "last_meaningful_workshop_update_date": "2025-10-30"
+  },
+  {
+    "issue_type": "replacement_unknown",
+    "wms_id": "11316",
+    "livelabs_id": 4380,
+    "title": "Explore \u201cIF NOT EXISTS\u201d Clause in Oracle Database 26ai and Beyond",
+    "recommended_action": "Run deeper replacement comparison or manual portfolio review",
+    "repo_slug": "partner-solutions",
+    "last_meaningful_workshop_update_date": "2026-03-12"
   },
   {
     "issue_type": "replacement_unknown",
@@ -635,6 +758,15 @@
     "recommended_action": "Run deeper replacement comparison or manual portfolio review",
     "repo_slug": null,
     "last_meaningful_workshop_update_date": null
+  },
+  {
+    "issue_type": "replacement_unknown",
+    "wms_id": "12021",
+    "livelabs_id": 4378,
+    "title": "Reducing Container Pull and Startup Time on OCI VMs with FSS/Lustre Caching",
+    "recommended_action": "Run deeper replacement comparison or manual portfolio review",
+    "repo_slug": "oci",
+    "last_meaningful_workshop_update_date": "2026-03-12"
   },
   {
     "issue_type": "replacement_unknown",
@@ -869,122 +1001,5 @@
     "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
     "latest_workshop_commit_date": "2025-04-25",
     "latest_meaningful_commit_subject": "Fix database repo (outdated URLS) (#660)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11736",
-    "livelabs_id": 4033,
-    "title": "Agent Workflow on OKE using NVIDIA NIMs",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-24",
-    "latest_meaningful_commit_subject": "Fix ai-gpu-solutions repo (outdated URLS)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "8621",
-    "livelabs_id": 902,
-    "title": "Analyse Moviestream data in Oracle ADW using Oracle Analytics Desktop",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix analytics-ai repo (outdated URLS) (#337)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "2740",
-    "livelabs_id": 680,
-    "title": "Analytics for LOB - Internal",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix analytics-ai repo (outdated URLS) (#337)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11397",
-    "livelabs_id": 3693,
-    "title": "Analyze Diversity and Inclusion Data with Oracle Analytics Cloud",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix analytics-ai repo (outdated URLS) (#337)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11478",
-    "livelabs_id": 3837,
-    "title": "Analyze IoT Car in Big Data Services",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix analytics-ai repo (outdated URLS) (#337)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "6161",
-    "livelabs_id": 852,
-    "title": "Analyze Moviestream data in Oracle Autonomous Data Warehouse using SQL",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix ADB repo (outdated URLS) (#354)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11629",
-    "livelabs_id": 4040,
-    "title": "Analyze NBA stats and gameplay using Oracle Analytics Cloud dashboard built on Visual Builder using GenAI and ADB",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "WMS ID 11629 - Updates for lab errors, fix merge, and html (#341)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11389",
-    "livelabs_id": 4254,
-    "title": "Analyze data at scale in object storage with MySQL HeatWave Lakehouse",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "LWMS ID: 11389 - Quarterly QA update (#739)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "4781",
-    "livelabs_id": 801,
-    "title": "Application Continuity Fundamentals",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix database repo (outdated URLS) (#660)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "11169",
-    "livelabs_id": 3396,
-    "title": "Application Continuity made simple with Universal Connection Pool",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix pts repo (outdated URLS) (#165)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "8241",
-    "livelabs_id": 908,
-    "title": "Application Onboarding with Oracle Identity Governance (OIG)",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-27",
-    "latest_meaningful_commit_subject": "Fix security repo (outdated URLS) (#245)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "1760",
-    "livelabs_id": 688,
-    "title": "Application integration with SOA",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "developer url fix (#335)"
-  },
-  {
-    "issue_type": "maintenance_only_update_signal",
-    "wms_id": "3042",
-    "livelabs_id": 706,
-    "title": "Artificial Intelligence:  Getting Started with Computer Vision using PyTorch",
-    "recommended_action": "Verify whether the last meaningful update was content-level or only maintenance",
-    "latest_workshop_commit_date": "2025-04-25",
-    "latest_meaningful_commit_subject": "Fix oci-hpc repo (outdated URLS) (#11)"
   }
 ]
