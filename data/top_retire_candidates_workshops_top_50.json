@@ -91,7 +91,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ankita Beri, Product Manager",
     "acknowledgement_source_file": "apex-professional-hol15/approval-management.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 356 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 356 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 356,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -143,7 +143,7 @@
         "acknowledgement_author": "Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 356 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 356 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 356,
         "dates_match": false
@@ -259,7 +259,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ankita Beri, Product Manager",
     "acknowledgement_source_file": "apex-professional-hol20/working-copy.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 326 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 326 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 326,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -311,7 +311,7 @@
         "acknowledgement_author": "Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 326 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 326 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 326,
         "dates_match": false
@@ -327,7 +327,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 71 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 71 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 71,
         "dates_match": false
@@ -343,7 +343,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 71 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 71 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 71,
         "dates_match": false
@@ -1627,7 +1627,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "enterprise-manager/emcc/prepare-setup/prepare-setup.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1034 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1034 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1034,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -1647,7 +1647,7 @@
         "acknowledgement_author": "Rene Fontcha, Master Principal Solutions Architect, NA Technology",
         "acknowledgement_contributors": "Dave Le Roy, Pankaj Chandiramani, Shefali Bhargava - Enterprise Manager Product Management",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 756 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 756 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 756,
         "dates_match": false
@@ -1663,7 +1663,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1034 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1034 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1034,
         "dates_match": false
@@ -1827,7 +1827,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ankita Beri, Product Manager",
     "acknowledgement_source_file": "apex-professional-hol13/search-conf.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 417,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -1879,7 +1879,7 @@
         "acknowledgement_author": "Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 417,
         "dates_match": false
@@ -1895,7 +1895,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 136 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 136 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 136,
         "dates_match": false
@@ -2031,7 +2031,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Roopesh Thokala, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 429 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 429 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 429,
         "dates_match": false
@@ -2063,7 +2063,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 94 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 94 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 94,
         "dates_match": false
@@ -3235,7 +3235,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ankita Beri, Product Manager",
     "acknowledgement_source_file": "apex-professional-hol9/1-creating-shopping-cart.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 417,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -3287,7 +3287,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 417,
         "dates_match": false
@@ -3403,7 +3403,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ankita Beri Product Manager",
     "acknowledgement_source_file": "apex-professional-hol10/2-creating-add-to-cart-page.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 417,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -3455,7 +3455,7 @@
         "acknowledgement_author": "Roopesh Thokala, Senior Product Manager; Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 417 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 417 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 417,
         "dates_match": false
@@ -3571,7 +3571,7 @@
     "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese, Rene Fontcha",
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "veridata/prepare-setup/prepare-setup.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1065 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1065 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1065,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -3591,7 +3591,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Senior Member of Technical staff, Jonathan Fu, Director Product Development",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -3607,7 +3607,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1065 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1065 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1065,
         "dates_match": false
@@ -3623,7 +3623,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese , Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -3639,7 +3639,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -3655,7 +3655,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu, Rene Fontcha",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -3671,7 +3671,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese , Jonathan Fu, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -3687,7 +3687,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese , Jonathan Fu, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -3703,7 +3703,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese , Jonathan Fu, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -3819,7 +3819,7 @@
     "acknowledgement_contributors": "Marion Smith, Hakim Loumi",
     "acknowledgement_updater": "Hakim Loumi, Database Security PM",
     "acknowledgement_source_file": "database/common/init-start-env/init-start-env.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 47,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -3855,7 +3855,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Marion Smith, Hakim Loumi",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 47,
         "dates_match": false
@@ -3987,7 +3987,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Apoorva Srinivas, Principal Product Manager",
     "acknowledgement_source_file": "common-242/1-sign-up-apex/1-sign-up-apex.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 45,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -4007,7 +4007,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4023,7 +4023,7 @@
         "acknowledgement_author": "Apoorva Srinivas, Principal Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Apoorva Srinivas, Principal Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 45,
         "dates_match": false
@@ -4039,7 +4039,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4055,7 +4055,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4071,7 +4071,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4087,7 +4087,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 65 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 65 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 65,
         "dates_match": false
@@ -4103,7 +4103,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4119,7 +4119,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4135,7 +4135,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4151,7 +4151,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4167,7 +4167,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4183,7 +4183,7 @@
         "acknowledgement_author": "Jayson Hanes, Principal Product Manager; Apoorva Srinivas, Senior Product Manager;",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -4299,7 +4299,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Pankaj Goyal, Member Technical Staff",
     "acknowledgement_source_file": "apex-professional-hol17/implementing-security-inapp.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 175 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 175 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 175,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -4351,7 +4351,7 @@
         "acknowledgement_author": "Ankita Beri, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Pankaj Goyal, Member Technical Staff",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 175 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 175 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 175,
         "dates_match": false
@@ -4535,7 +4535,7 @@
         "acknowledgement_author": "Roopesh Thokala, Principal Product Manager; Ankita Beri, Senior Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ankita Beri, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 387 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 387 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 387,
         "dates_match": false
@@ -4651,7 +4651,7 @@
     "acknowledgement_contributors": "Suresh Rajan, Victor Martinez, Manish Garodia, Aayushi Arora",
     "acknowledgement_updater": "Manisha Mati",
     "acknowledgement_source_file": "odb-21c/dba-essentials/manage-schema-objects/intro-schema-objects/intro-schema-objects.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 975 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 975 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 975,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -4719,7 +4719,7 @@
         "acknowledgement_author": "Manisha Mati, Database User Assistance Development team",
         "acknowledgement_contributors": "Suresh Rajan, Victor Martinez, Manish Garodia, Aayushi Arora",
         "acknowledgement_updater": "Manisha Mati",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 125 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 125 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 125,
         "dates_match": false
@@ -4735,7 +4735,7 @@
         "acknowledgement_author": "Manisha Mati, Database User Assistance Development team",
         "acknowledgement_contributors": "Suresh Rajan, Victor Martinez, Manish Garodia, Aayushi Arora",
         "acknowledgement_updater": "Manisha Mati",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 129 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 129 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 129,
         "dates_match": false
@@ -4751,7 +4751,7 @@
         "acknowledgement_author": "Manisha Mati, Database User Assistance Development team",
         "acknowledgement_contributors": "Suresh Rajan, Victor Martinez, Manish Garodia, Aayushi Arora",
         "acknowledgement_updater": "Manisha Mati",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 129 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 129 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 129,
         "dates_match": false
@@ -4867,7 +4867,7 @@
     "acknowledgement_contributors": "Richard C. Evans, Database Security Product Manager",
     "acknowledgement_updater": "Stephen Stuart & Noah Galloso",
     "acknowledgement_source_file": "database/baseline/vpd/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement newer than Git by 110 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date is newer than latest Git update by 110 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 110,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -4887,7 +4887,7 @@
         "acknowledgement_author": "Stephen Stuart & Noah Galloso, Solution Engineers, North America Specialist Hub",
         "acknowledgement_contributors": "Richard C. Evans, Database Security Product Manager",
         "acknowledgement_updater": "Stephen Stuart & Noah Galloso",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement newer than Git by 110 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date is newer than latest Git update by 110 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 110,
         "dates_match": false
@@ -4903,7 +4903,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Marion Smith, Hakim Loumi",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 47,
         "dates_match": false
@@ -5055,7 +5055,7 @@
         "acknowledgement_author": "Hakim Loumi, Database Security PM",
         "acknowledgement_contributors": "Pedro Lopes",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 432 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 432 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 432,
         "dates_match": false
@@ -5087,7 +5087,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Marion Smith, Hakim Loumi",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 47,
         "dates_match": false
@@ -5103,7 +5103,7 @@
         "acknowledgement_author": "Hakim Loumi, Database Security PM",
         "acknowledgement_contributors": "Pedro Lopes",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -5219,7 +5219,7 @@
     "acknowledgement_contributors": "Kumar Varun, Logging Analytics Product Management, Jolly Kundu - Logging Analytics Development Team",
     "acknowledgement_updater": null,
     "acknowledgement_source_file": "logging-analytics/advanced-machine-learning/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 46 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 46 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 46,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -5239,7 +5239,7 @@
         "acknowledgement_author": "Sachin Mirajkar, Logging Analytics Development Team",
         "acknowledgement_contributors": "Kumar Varun, Logging Analytics Product Management, Jolly Kundu - Logging Analytics Development Team",
         "acknowledgement_updater": null,
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 1,
         "dates_match": false
@@ -5255,7 +5255,7 @@
         "acknowledgement_author": "Gurusamy Poosamalai, Logging Analytics Development Team",
         "acknowledgement_contributors": "Kumar Varun, Logging Analytics Product Management, Jolly Kundu - Logging Analytics Development Team",
         "acknowledgement_updater": null,
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 51 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 51 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 51,
         "dates_match": false
@@ -5271,7 +5271,7 @@
         "acknowledgement_author": "Sachin Mirajkar, Logging Analytics Development Team",
         "acknowledgement_contributors": "Kumar Varun, Logging Analytics Product Management, Jolly Kundu - Logging Analytics Development Team",
         "acknowledgement_updater": null,
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 44 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 44 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 44,
         "dates_match": false
@@ -5287,7 +5287,7 @@
         "acknowledgement_author": "Sachin Mirajkar, Logging Analytics Development Team",
         "acknowledgement_contributors": "Kumar Varun, Logging Analytics Product Management, Jolly Kundu - Logging Analytics Development Team",
         "acknowledgement_updater": null,
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 44 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 44 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 44,
         "dates_match": false
@@ -5439,7 +5439,7 @@
         "acknowledgement_author": "Kishore Katta, Technical Director, Oracle Integration Product Management",
         "acknowledgement_contributors": "Subhani Italapuram, Oracle Integration Product Management",
         "acknowledgement_updater": "Oracle Integration team",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 187 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 187 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 187,
         "dates_match": false
@@ -5619,7 +5619,7 @@
     "acknowledgement_contributors": "Perside Foster, MySQL Solution Engineering",
     "acknowledgement_updater": "Ravish Patel, MySQL Solution Engineering",
     "acknowledgement_source_file": "heatwave-migration/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 848,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -5639,7 +5639,7 @@
         "acknowledgement_author": "Ravish Patel, MySQL Solution Engineering",
         "acknowledgement_contributors": "Perside Foster, MySQL Solution Engineering",
         "acknowledgement_updater": "Ravish Patel, MySQL Solution Engineering",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -5655,7 +5655,7 @@
         "acknowledgement_author": "Ravish Patel, MySQL Solution Engineering",
         "acknowledgement_contributors": "Perside Foster, MySQL Solution Engineering",
         "acknowledgement_updater": "Ravish Patel, MySQL Solution Engineering",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 827 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 827 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 827,
         "dates_match": false
@@ -5671,7 +5671,7 @@
         "acknowledgement_author": "Ravish Patel, MySQL Solution Engineering",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ravish Patel",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 827 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 827 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 827,
         "dates_match": false
@@ -5687,7 +5687,7 @@
         "acknowledgement_author": "Ravish Patel, MySQL Solution Engineering",
         "acknowledgement_contributors": "Perside Foster, MySQL Solution Engineering",
         "acknowledgement_updater": "Ravish Patel, MySQL Solution Engineering",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 827 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 827 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 827,
         "dates_match": false
@@ -5703,7 +5703,7 @@
         "acknowledgement_author": "Ravish Patel, MySQL Solution Engineering",
         "acknowledgement_contributors": "Perside Foster, MySQL Solution Engineering",
         "acknowledgement_updater": "Ravish Patel, MySQL Solution Engineering",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 827 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 827 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 827,
         "dates_match": false
@@ -6035,7 +6035,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Hermann Baer",
     "acknowledgement_source_file": "text/index-object-store/load-files/load-files.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 117 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 117 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 117,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -6055,7 +6055,7 @@
         "acknowledgement_author": "Roger Ford, Principal Product Manager",
         "acknowledgement_contributors": "James Zheng",
         "acknowledgement_updater": "Roger Ford",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 471 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 471 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 471,
         "dates_match": false
@@ -6071,7 +6071,7 @@
         "acknowledgement_author": "Roger Ford, Principal Product Manager, Oracle Database",
         "acknowledgement_contributors": "Kamryn Vinson, Andres Quintana, James Zheng",
         "acknowledgement_updater": "Ernesto Alvarez",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 38 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 38 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 38,
         "dates_match": false
@@ -6135,7 +6135,7 @@
         "acknowledgement_author": "Roger Ford, Principal Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Hermann Baer",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 117 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 117 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 117,
         "dates_match": false
@@ -7147,7 +7147,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Landry Kezebou",
     "acknowledgement_source_file": "oci-opensearch/semantic-search/semantic-search.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 92 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 92 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 92,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -7215,7 +7215,7 @@
         "acknowledgement_author": "Nuno Gon\u00e7alves",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Hassan Ajan",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 330 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 330 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 330,
         "dates_match": false
@@ -7263,7 +7263,7 @@
         "acknowledgement_author": "Landry Kezebou Yankam",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Landry Kezebou",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 92 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 92 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 92,
         "dates_match": false
@@ -7279,7 +7279,7 @@
         "acknowledgement_author": "Emmanuel Leroy",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Emmanuel Leroy",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 45,
         "dates_match": false
@@ -7295,7 +7295,7 @@
         "acknowledgement_author": "Landry Kezebou Yankam, George Csaba, Emmanuel Leroy",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Emmanuel Leroy",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 427 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 427 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 427,
         "dates_match": false
@@ -7443,7 +7443,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
     "acknowledgement_source_file": "reporting-clones/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 84 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 84 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 84,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -7479,7 +7479,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 84 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 84 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 84,
         "dates_match": false
@@ -7495,7 +7495,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 84 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 84 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 84,
         "dates_match": false
@@ -7611,7 +7611,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
     "acknowledgement_source_file": "peoplesoft-import-to-cloud-manager/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 544 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 544 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 544,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -7631,7 +7631,7 @@
         "acknowledgement_author": "Vinay Shivanna, Principal Cloud Architect",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 245 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 245 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 245,
         "dates_match": false
@@ -7647,7 +7647,7 @@
         "acknowledgement_author": "Vinay Shivanna, Principal Cloud Architect",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 245 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 245 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 245,
         "dates_match": false
@@ -7663,7 +7663,7 @@
         "acknowledgement_author": "Vinay Shivanna, Principal Cloud Architect",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 245 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 245 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 245,
         "dates_match": false
@@ -7679,7 +7679,7 @@
         "acknowledgement_author": "Vinay Shivanna, Principal Cloud Architect",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 245 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 245 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 245,
         "dates_match": false
@@ -7695,7 +7695,7 @@
         "acknowledgement_author": "Vinay Shivanna, Principal Cloud Architect",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Vinay Shivanna, Principal Cloud Architect",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 544 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 544 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 544,
         "dates_match": false
@@ -7811,7 +7811,7 @@
     "acknowledgement_contributors": "Carrie Nielsen, Analytics Product Strategy",
     "acknowledgement_updater": "Quintana",
     "acknowledgement_source_file": "goalmouth-mapping/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 124 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 124 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 124,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -7831,7 +7831,7 @@
         "acknowledgement_author": "Andres Quintana, Senior Product Manager, Analytics Product Strategy",
         "acknowledgement_contributors": "Carrie Nielsen, Analytics Product Strategy",
         "acknowledgement_updater": "Quintana",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 124 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 124 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 124,
         "dates_match": false
@@ -7847,7 +7847,7 @@
         "acknowledgement_author": "Jeroen Kloosterman (Technology Product Strategy Director), Victor Martin (Technology Product Strategy Manager)",
         "acknowledgement_contributors": "Priscila Iruela, Arabella Yao",
         "acknowledgement_updater": "Lucian Dinescu (Oracle Analytics Product Strategy)",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 662 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 662 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 662,
         "dates_match": false
@@ -7863,7 +7863,7 @@
         "acknowledgement_author": "Andres Quintana, Senior Product Manager, Analytics Product Strategy",
         "acknowledgement_contributors": "Carrie Nielsen, Analytics Product Strategy",
         "acknowledgement_updater": "Quintana",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 32 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 32 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 32,
         "dates_match": false
@@ -7879,7 +7879,7 @@
         "acknowledgement_author": "Andres Quintana, Senior Product Manager, Analytics Product Strategy",
         "acknowledgement_contributors": "Carrie Nielsen, Analytics Product Strategy",
         "acknowledgement_updater": "Quintana",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 111 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 111 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 111,
         "dates_match": false
@@ -7895,7 +7895,7 @@
         "acknowledgement_author": "Andres Quintana, Senior Product Manager, Analytics Product Strategy",
         "acknowledgement_contributors": "Carrie Nielsen, Analytics Product Strategy",
         "acknowledgement_updater": "Quintana",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 111 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 111 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 111,
         "dates_match": false
@@ -8211,7 +8211,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
     "acknowledgement_source_file": "orcl-dbcs-19c/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 258 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 258 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 258,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -8231,7 +8231,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 74 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 74 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 74,
         "dates_match": false
@@ -8247,7 +8247,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 258 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 258 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 258,
         "dates_match": false
@@ -8263,7 +8263,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 180 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 180 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 180,
         "dates_match": false
@@ -8279,7 +8279,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 258 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 258 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 258,
         "dates_match": false
@@ -8295,7 +8295,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 174 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 174 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 174,
         "dates_match": false
@@ -8311,7 +8311,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 258 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 258 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 258,
         "dates_match": false
@@ -8327,7 +8327,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 104 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 104 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 104,
         "dates_match": false
@@ -8343,7 +8343,7 @@
         "acknowledgement_author": "Valentin Leonard Tabacaru",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Valentin Leonard Tabacaru, DB Product Management",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 70 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 70 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 70,
         "dates_match": false
@@ -8495,7 +8495,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Marion Smith, Hakim Loumi",
         "acknowledgement_updater": "Hakim Loumi, Database Security PM",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 47,
         "dates_match": false
@@ -8511,7 +8511,7 @@
         "acknowledgement_author": "Nazia Zaidi, Audit Vault and Databse Firewall - Product Manager",
         "acknowledgement_contributors": "Hakim Loumi - Hakim Loumi, Database Security - Product Manager",
         "acknowledgement_updater": "Nazia Zaidi, Audit Vault and Databse Firewall - Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 508 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 508 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 508,
         "dates_match": false
@@ -8779,7 +8779,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Kris Bhanushali and Rick Green",
     "acknowledgement_source_file": "dedicated/workshop/db-security-administrators/intro.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 909 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 909 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 909,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -8799,7 +8799,7 @@
         "acknowledgement_author": null,
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Kris Bhanushali and Rick Green",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 909 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 909 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 909,
         "dates_match": false
@@ -8999,7 +8999,7 @@
         "acknowledgement_author": "Subhani Italapuram, Product Management, Oracle Integration",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Kishore Katta",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 83 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 83 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 83,
         "dates_match": false
@@ -9163,7 +9163,7 @@
     "acknowledgement_contributors": "Kay Malcolm, Product Manager, Database Product Management",
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "essbase-oac/prepare-setup/prepare-setup.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1552 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1552 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1552,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -9199,7 +9199,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Kay Malcolm, Product Manager, Database Product Management",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1552 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1552 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1552,
         "dates_match": false
@@ -9827,7 +9827,7 @@
     "acknowledgement_contributors": "Killian Lynch, Solution Engineer Specialist Hub Team, NA Technology",
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "oas-retail-qsr/initialize-environment/initialize-environment.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1279 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1279 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1279,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -9847,7 +9847,7 @@
         "acknowledgement_author": "Killian Lynch, Nagwang Gyamtso, Luke Wheless, Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_contributors": "Killian Lynch, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_updater": "Killian Lynch",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 164 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 164 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 164,
         "dates_match": false
@@ -9863,7 +9863,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Kay Malcolm, Product Manager, Database Product Management",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1521 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1521 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1521,
         "dates_match": false
@@ -9879,7 +9879,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology, January 2021",
         "acknowledgement_contributors": "Killian Lynch, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1279 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1279 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1279,
         "dates_match": false
@@ -9895,7 +9895,7 @@
         "acknowledgement_author": "Killian Lynch, Nagwang Gyamtso, Luke Wheless, Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_contributors": "Killian Lynch, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_updater": "Killian Lynch",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 164 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 164 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 164,
         "dates_match": false
@@ -9911,7 +9911,7 @@
         "acknowledgement_author": "Killian Lynch, Nagwang Gyamtso, Luke Wheless, Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_contributors": "Luke Wheless, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_updater": "Luke Wheless",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 105 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 105 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 105,
         "dates_match": false
@@ -9927,7 +9927,7 @@
         "acknowledgement_author": "Killian Lynch, Nagwang Gyamtso, Luke Wheless, Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_contributors": "Nagwang Gyamtso, Solution Engineer Specialist Hub Team, Na Technology",
         "acknowledgement_updater": "Nagwang Gyamtso",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 136 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 136 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 136,
         "dates_match": false
@@ -9943,7 +9943,7 @@
         "acknowledgement_author": "Killian Lynch, Nagwang Gyamtso, Luke Wheless, Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_contributors": "Akash Dharamshi, Solution Engineer Specialist Hub Team, NA Technology",
         "acknowledgement_updater": "Akash Dharamshi",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 136 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 136 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 136,
         "dates_match": false
@@ -10059,7 +10059,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Ethan Shmargad",
     "acknowledgement_source_file": "database/secure-legacy-application/introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 381,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -10079,7 +10079,7 @@
         "acknowledgement_author": "Ethan Shmargad, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 381,
         "dates_match": false
@@ -10095,7 +10095,7 @@
         "acknowledgement_author": "Ethan Shmargad, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 381,
         "dates_match": false
@@ -10111,7 +10111,7 @@
         "acknowledgement_author": "Ethan Shmargad, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 381,
         "dates_match": false
@@ -10127,7 +10127,7 @@
         "acknowledgement_author": "Ethan Shmargad, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 381,
         "dates_match": false
@@ -10143,7 +10143,7 @@
         "acknowledgement_author": "Ethan Shmargad, Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 381 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 381 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 381,
         "dates_match": false
@@ -10159,7 +10159,7 @@
         "acknowledgement_author": "Ethan Shmargad, North America Specialists Hub",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1324 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1324 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1324,
         "dates_match": false
@@ -10175,7 +10175,7 @@
         "acknowledgement_author": "Ethan Shmargad, North America Specialists Hub",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 96 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 96 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 96,
         "dates_match": false
@@ -10191,7 +10191,7 @@
         "acknowledgement_author": "Ethan Shmargad, North America Specialists Hub",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Ethan Shmargad",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 96 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 96 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 96,
         "dates_match": false
@@ -10307,7 +10307,7 @@
     "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese, Rene Fontcha",
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "veridata/prepare-setup/prepare-setup.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1065 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1065 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1065,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -10327,7 +10327,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10343,7 +10343,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1065 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1065 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1065,
         "dates_match": false
@@ -10359,7 +10359,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese , Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 212 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 212 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 212,
         "dates_match": false
@@ -10375,7 +10375,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10391,7 +10391,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu, Rene Fontcha",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10407,7 +10407,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Nisharahmed Soneji, Sukin Varghese, Jonathan Fu",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10423,7 +10423,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu, Meghana Banka",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10439,7 +10439,7 @@
         "acknowledgement_author": "Anuradha Chepuri, Principal UA Developer, Oracle GoldenGate User Assistance",
         "acknowledgement_contributors": "Sukin Varghese, Jonathan Fu, Meghana Banka",
         "acknowledgement_updater": "Anuradha Chepuri",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 848 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 848 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 848,
         "dates_match": false
@@ -10839,7 +10839,7 @@
         "acknowledgement_author": "Santiago Bastidas, Product Management Director",
         "acknowledgement_contributors": "Tiffany Romero, Technical Writer; Terri Noyes, Product Management Director",
         "acknowledgement_updater": "Tiffany Romero, EBS Documentation",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -10855,7 +10855,7 @@
         "acknowledgement_author": "Santiago Bastidas, Product Management Director",
         "acknowledgement_contributors": "Tiffany Romero, Technical Writer; Terri Noyes, Product Management Director",
         "acknowledgement_updater": "Tiffany Romero, EBS Documentation",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -10871,7 +10871,7 @@
         "acknowledgement_author": "Santiago Bastidas, Product Management Director",
         "acknowledgement_contributors": "Tiffany Romero, Technical Writer; Terri Noyes, Product Management Director",
         "acknowledgement_updater": "Tiffany Romero, EBS Documentation",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -10887,7 +10887,7 @@
         "acknowledgement_author": "Santiago Bastidas, Product Management Director",
         "acknowledgement_contributors": "Tiffany Romero, Technical Writer; Terri Noyes, Product Management Director",
         "acknowledgement_updater": "Tiffany Romero, EBS Documentation",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false

@@ -279,7 +279,7 @@
         "acknowledgement_author": null,
         "acknowledgement_contributors": "Kay Malcolm, Anoosha Pilli, Rene Fontcha",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 985 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 985 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 985,
         "dates_match": false
@@ -443,7 +443,7 @@
     "acknowledgement_contributors": "Meghana Banka",
     "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
     "acknowledgement_source_file": "enterprise-manager/odb-21c/dba-essentials/manage-pdb/prepare-setup/prepare-setup.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1309 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1309 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1309,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -479,7 +479,7 @@
         "acknowledgement_author": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
         "acknowledgement_contributors": "Meghana Banka",
         "acknowledgement_updater": "Rene Fontcha, LiveLabs Platform Lead, NA Technology",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1309 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1309 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1309,
         "dates_match": false
