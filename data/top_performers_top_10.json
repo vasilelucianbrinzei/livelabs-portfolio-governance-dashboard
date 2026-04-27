@@ -510,7 +510,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Malia German",
     "acknowledgement_source_file": "analytics/sprint-oas-creating-custom-map-layers/sprint-create-map-layers.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1027 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1027 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1027,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -530,7 +530,7 @@
         "acknowledgement_author": "Malia German, Solution Engineer, North America Specialist Hub",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Malia German",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1027 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1027 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1027,
         "dates_match": false
@@ -615,7 +615,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Apoorva Srinivas, Principal Product Manager",
     "acknowledgement_source_file": "common-242/1-sign-up-apex/1-sign-up-apex.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 45,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -635,7 +635,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 70 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 70 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 70,
         "dates_match": false
@@ -651,7 +651,7 @@
         "acknowledgement_author": "Apoorva Srinivas, Principal Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Apoorva Srinivas, Principal Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 45,
         "dates_match": false
@@ -667,7 +667,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 48 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 48 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 48,
         "dates_match": false
@@ -683,7 +683,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -699,7 +699,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -715,7 +715,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -731,7 +731,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -747,7 +747,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -779,7 +779,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -795,7 +795,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -811,7 +811,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 74 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 74 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 74,
         "dates_match": false
@@ -827,7 +827,7 @@
         "acknowledgement_author": "Sahaana Manavalan, Senior Product Manager; Roopesh Thokala, Senior Product Manager, August 2025",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Sahaana Manavalan, Senior Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 55 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 55 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 55,
         "dates_match": false
@@ -980,7 +980,7 @@
         "acknowledgement_author": "Lauran K. Serhal, Consulting User Assistance Developer",
         "acknowledgement_contributors": "Ekrem Soylemez, Vice President; Manisha Mati, Principal User Assistance Developer; Yossi Cohen, Principal Software Engineer",
         "acknowledgement_updater": "Lauran K. Serhal",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 47 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 47 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 47,
         "dates_match": false
@@ -996,7 +996,7 @@
         "acknowledgement_author": "Lauran K. Serhal, Consulting User Assistance Developer",
         "acknowledgement_contributors": "Ekrem Soylemez, Vice President; Manisha Mati, Principal User Assistance Developer; Yossi Cohen, Principal Software Engineer",
         "acknowledgement_updater": "Lauran K. Serhal",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 38 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 38 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 38,
         "dates_match": false
@@ -1188,7 +1188,7 @@
         "acknowledgement_author": "Lauran K. Serhal, Consulting User Assistance Developer",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Lauran Serhal",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 38 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 38 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 38,
         "dates_match": false
@@ -1309,7 +1309,7 @@
         "acknowledgement_author": "Apoorva Srinivas, Principal Product Manager",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Apoorva Srinivas, Principal Product Manager",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 45 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 45 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 45,
         "dates_match": false
@@ -1659,7 +1659,7 @@
     "acknowledgement_contributors": "Sean Stacey, Markus Kissling, Product Managers, AI Vector Search",
     "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
     "acknowledgement_source_file": "ai-vector-search-fundamentals/1-introduction/introduction.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 43 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 43 days",
     "acknowledgement_vs_git_sync_level": "yellow",
     "acknowledgement_vs_git_delta_days": 43,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -1679,7 +1679,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "David Start",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 71 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 71 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 71,
         "dates_match": false
@@ -1695,7 +1695,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Markus Kissling, Product Managers, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 43 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 43 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 43,
         "dates_match": false
@@ -1711,7 +1711,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Product Manager, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 65 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 65 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 65,
         "dates_match": false
@@ -1727,7 +1727,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Product Manager, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 65 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 65 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 65,
         "dates_match": false
@@ -1743,7 +1743,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Product Manager, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 65 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 65 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 65,
         "dates_match": false
@@ -1759,7 +1759,7 @@
         "acknowledgement_author": "Andy Rivenes, Product Manager, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Product Manager, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 65 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 65 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 65,
         "dates_match": false
@@ -1775,7 +1775,7 @@
         "acknowledgement_author": "Andy Rivenes, Markus Kissling, Product Managers, AI Vector Search",
         "acknowledgement_contributors": "Sean Stacey, Product Manager, AI Vector Search",
         "acknowledgement_updater": "Andy Rivenes, Product Manager, AI Vector Search",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 37 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 37 days",
         "acknowledgement_vs_git_sync_level": "yellow",
         "acknowledgement_vs_git_delta_days": 37,
         "dates_match": false
@@ -1860,7 +1860,7 @@
     "acknowledgement_contributors": null,
     "acknowledgement_updater": "Miles Novotny",
     "acknowledgement_source_file": "analytics/sprint-oac-check-model-accuracy/oac-check-model-accuracy.md",
-    "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1090 days",
+    "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1090 days",
     "acknowledgement_vs_git_sync_level": "red",
     "acknowledgement_vs_git_delta_days": 1090,
     "acknowledgement_vs_wms_sync_status": "WMS workshop update not available",
@@ -1880,7 +1880,7 @@
         "acknowledgement_author": "Miles Novotny, Solution Engineer, North America Specialist Hub",
         "acknowledgement_contributors": null,
         "acknowledgement_updater": "Miles Novotny",
-        "acknowledgement_vs_git_sync_status": "Acknowledgement date trails latest Git update by 1090 days",
+        "acknowledgement_vs_git_sync_status": "Acknowledgement older than Git by 1090 days",
         "acknowledgement_vs_git_sync_level": "red",
         "acknowledgement_vs_git_delta_days": 1090,
         "dates_match": false

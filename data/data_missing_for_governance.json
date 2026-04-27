@@ -120,7 +120,7 @@
     "workshop_key": "livelabs:3919",
     "wms_id": "11523",
     "livelabs_id": 3919,
-    "title": "Explore the Oracle Insurance Policy Administration (OIPA)  platform",
+    "title": "Explore the Oracle Insurance Policy Administration (OIPA) platform",
     "missing_fields": [
       "replacement_exists"
     ]
@@ -156,7 +156,7 @@
     "workshop_key": "livelabs:4264",
     "wms_id": "11959",
     "livelabs_id": 4264,
-    "title": "AI Experience Live: Customize AI Agents and Workflows with LLMs and OCI AI Agent Platform\u2014Finance Edition",
+    "title": "AI Experience Live: Customize AI Agents and Workflows with LLMs and OCI AI Agent Platform—Finance Edition",
     "missing_fields": [
       "replacement_exists"
     ]
@@ -165,7 +165,7 @@
     "workshop_key": "livelabs:4292",
     "wms_id": "11850",
     "livelabs_id": 4292,
-    "title": "AI Experience Live: Build a GenAI-Powered Application with Oracle AI Database\u2014Finance Edition",
+    "title": "AI Experience Live: Build a GenAI-Powered Application with Oracle AI Database—Finance Edition",
     "missing_fields": [
       "replacement_exists"
     ]
@@ -230,7 +230,7 @@
     "workshop_key": "livelabs:656",
     "wms_id": "1681",
     "livelabs_id": 656,
-    "title": "EM  - Hybrid Multitenant Database Lifecycle Management",
+    "title": "EM - Hybrid Multitenant Database Lifecycle Management",
     "missing_fields": [
       "replacement_exists"
     ]
@@ -293,7 +293,7 @@
     "workshop_key": "livelabs:3629",
     "wms_id": "11184",
     "livelabs_id": 3629,
-    "title": "OCI APM Stack Monitoring fundamentals:  Single-pane of glass monitoring of EBS, WebLogic, Oracle Database and Host",
+    "title": "OCI APM Stack Monitoring fundamentals: Single-pane of glass monitoring of EBS, WebLogic, Oracle Database and Host",
     "missing_fields": [
       "replacement_exists"
     ]
